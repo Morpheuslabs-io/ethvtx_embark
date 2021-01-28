@@ -11,7 +11,9 @@ This is an Embark template showcasing the features of `ethvtx`.
 | 4.1.1    | 2.0.6    | 1.2.1  |
 
 **Notice**
-Node version 10 must be used to start up successfully
+Node version 10 must be used to start up successfully.
+
+For installation, run the cmd `yarn`
 
 ### Run the app
 
